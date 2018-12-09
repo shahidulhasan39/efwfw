@@ -1,0 +1,647 @@
+/*------------------------------*/
+/* Media Query  max width 479px */
+/*------------------------------*/
+@media screen and (max-width: 479px) {
+/*------------------------------*/
+/*   Slider                     */
+/*------------------------------*/
+.custom-item img{
+	min-height: 220px;
+}
+.owl-dots {
+	right: 15px;
+}
+.slider-content {
+	margin-left: 15px;
+    padding: 10px;
+    border-left: 18px solid #e21838;
+    right: 45px;
+}
+.slider-content h2 {
+	font-size: 22px;
+	padding-bottom: 5px;
+}
+.slider-content p {
+	font-size: 16px;
+	line-height: 18px;
+}
+.slider-content a {
+	margin-top: 10px;
+	color: #fff;
+	font-size: 16px;
+}
+/*------------------------------*/
+/* body-content                 */
+/*------------------------------*/
+.body-content-area {
+	padding: 20px 0px 20px 0px;
+}
+.col-heading h1 {
+	font-size: 22px;
+}
+.left-side {
+	float: none;
+	width: 100%;
+}
+.widget {
+	float: none;
+	width: 100%;
+	padding: 0px;
+}
+.widget h1 {
+	padding-bottom: 5px;
+}
+.widget-content p {
+	line-height: 22px;
+	padding-bottom: 15px;
+}
+.quick-link {
+	padding-top: 20px;
+}
+.quick-link h2 {
+	font-size: 22px;
+	padding-bottom: 15px;
+}
+.quick-link ul li {
+	font-size: 15px;
+}
+.news-feed {
+	float: none;
+	width: 100%;
+	padding: 0px;
+}
+.view-all {
+	padding-top: 15px;
+}
+.right-side {
+	float: none;
+	width: 100%;
+	padding: 0px;
+}
+.right-side h1 {
+	padding-bottom: 15px;
+}
+.featured-content h2 {
+	padding-bottom: 5px;
+}
+.featured-content p {
+	padding-bottom: 20px;
+}
+/*------------------------------*/
+/* Partner                      */
+/*------------------------------*/
+.partner-container {
+	padding: 0px;
+}
+.partner-area {
+	padding: 20px 0px 20px 0px;
+}
+.partner-heading {
+	font-size: 22px;
+	padding: 0px 15px 10px 15px;
+}
+.partner {
+	width: 100%;
+}
+.partner .card img {
+	width: 100%;
+}
+.card-body {
+	padding-top: 20px;
+}
+.partner h3 {
+	font-size: 17px;
+	line-height: 22px;
+}
+.partner p {
+	padding: 5px 0px 40px 0px;
+	line-height: 22px;
+}
+.partner-area a {
+	margin: 0px 15px 0px 0px;
+	font-size: 15px;
+}
+/*------------------------------*/
+/*  Help                        */
+/*------------------------------*/ 
+.help-content {
+	text-align: center;
+	padding: 30px 0px 35px 0px;
+}
+.help-content h3 {
+	display: block;
+	padding: 0px 0px 20px 0px;
+}
+.help-content a {
+	margin: 0px 5px 20px 5px;
+	font-size: 15px;
+}
+/*------------------------------*/
+/* Footer                       */
+/*------------------------------*/
+.footer-content-area {
+	padding: 20px 0px 0px 0px;
+}
+.footer-left-side {
+	float: none;
+	width: 100%;
+}
+.footer-logo {
+	padding-bottom: 20px;
+}
+.footer-right-side {
+	float: none;
+	width: 100%;
+}
+.footer-content {
+	float: none;
+	padding: 0px 0px 20px 0px;
+}
+.footer-content h4 {
+	padding-bottom: 0px;
+}
+.footer-content ul li {
+	padding-bottom: 0px;
+}
+.footer-about {
+	width: 100%;
+}
+.footer-quick-link {
+	width: 100%;
+}
+.expertise {
+	width: 100%;
+}
+.footer-contact {
+	width: 100%;
+}
+.copy-right-menu ul li {
+    padding: 0px 6px 0px 6px;
+}
+}
+/*----------------------------------------------*/
+/* Media Query max width 599px                  */
+/*----------------------------------------------*/
+@media screen and (max-width: 599px) {
+/*------------------------------*/
+/*   Header                     */
+/*------------------------------*/
+.header {
+	padding: 15px 0px 15px 0px;
+}
+.logo {
+	padding-top: 0px;
+}
+.menu-area {
+	float: none;
+	width: 100%;
+}
+.social-icon {
+	float: none;
+	text-align: center;
+}
+.social-icon ul {
+	display: inline-block;
+}
+.top-bar {
+	float: none;
+	width: 100%;
+	padding: 10px 0px 0px 0px;
+}
+.top-bar ul {
+	padding-right: 0px;
+	float: none;
+}
+.top-bar ul li {
+	font-size: 16px;
+	padding: 0px 10px 0px 10px;
+}
+.top-bar ul li input{	
+	margin-right: 5px;
+	width: 100px;
+	font-size: 16px;
+}
+.hamburger {
+        top: 57px;
+}
+/*------------------------------*/
+/*   body content               */
+/*------------------------------*/
+.quick-link ul li {
+	font-size: 15px;
+}	
+}
+/*------------------------------*/
+/* Media Query  max width 949px */
+/*------------------------------*/
+@media screen and (max-width: 949px) {
+/*------------------------------*/
+/*   Header                     */
+/*------------------------------*/
+#navbar {
+	display: block;
+}
+#menu {
+	display: none;
+}
+.dropdown-arrow:after {
+	content: '';	
+	font-family: none;	
+	padding-left: 0px;
+}
+/*------------------------------*/
+/*   Footer                     */
+/*------------------------------*/
+.copy-right-area {
+	text-align: center;
+	padding: 25px 0px 25px 0px;
+}
+.copy-right-content {
+	float: none;
+	margin-bottom: 10px;
+}
+.copy-right-menu {
+	float: none;
+}
+.copy-right-menu ul {
+	display: inline-block;
+}
+}
+/*----------------------------------------------*/
+/* Media Query min width 600px  max width 767px */
+/*----------------------------------------------*/
+@media screen and (min-width: 600px) and (max-width: 767px) {
+/*------------------------------*/
+/*   Header                     */
+/*------------------------------*/
+.header {
+	padding: 15px 0px 15px 0px;
+}
+.logo {
+	padding-top: 0px;
+	width: 170px;
+}
+.top-bar {
+	padding: 10px 0px 0px 0px;
+}
+.top-bar ul {
+	padding-right: 0px;
+}
+.top-bar ul li {
+	font-size: 16px;
+	padding: 0px 10px 0px 10px;
+}
+.top-bar ul li input{	
+	margin-right: 5px;
+	width: 100px;
+	font-size: 16px;
+}
+.hamburger {
+        top: 57px;
+}
+/*------------------------------*/
+/*   body content               */
+/*------------------------------*/
+.quick-link ul li {
+	font-size: 17px;
+}
+}
+/*----------------------------------------------*/
+/* Media Query min width 480px  max width 767px */
+/*----------------------------------------------*/
+@media screen and (min-width: 480px) and (max-width: 767px) {
+/*------------------------------*/
+/*   Slider                     */
+/*------------------------------*/
+.custom-item img{
+	min-height: 250px;
+}
+.owl-dots {
+	right: 15px;
+}
+.slider-content {
+    padding: 15px;
+    border-left: 20px solid #e21838;
+    right: 50px;
+}
+.slider-content h2 {
+	font-size: 26px;
+	padding-bottom: 5px;
+}
+.slider-content p {
+	line-height: 20px;
+}
+/*------------------------------*/
+/* body-content                 */
+/*------------------------------*/
+.body-content-area {
+	padding: 25px 0px 15px 0px;
+}
+.body-content-container {
+	padding: 0px;
+}
+.left-side {
+	float: none;
+	width: 100%;
+}
+.widget {
+	float: left;
+	width: 50%;
+}
+.widget h1 {
+	padding-bottom: 10px;
+}
+.widget-content p {
+	padding-bottom: 15px;
+}
+.quick-link {
+	padding-top: 25px;
+}
+.quick-link h2 {
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+.quick-link ul li a:before {
+	padding: 0px 5px 0px 7px; 
+}
+.news-feed-content {
+	padding: 0px 0px 15px 0px;
+}
+.news-feed-content .date {
+	padding: 8px 0px 0px 0px;
+}
+.view-all {
+	padding-top: 15px;
+}
+.right-side {
+	padding-top: 15px;
+	float: none;
+	width: 80%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.right-side h1 {
+	padding-bottom: 15px;
+}
+.feature-image img {
+	width: 100%;
+}
+.featured-content h2 {
+	padding-bottom: 0px;
+}
+.featured-content p {
+	padding-bottom: 15px;
+}
+/*------------------------------*/
+/* Partner                      */
+/*------------------------------*/
+.partner-container {
+	padding: 0px;
+}
+.partner-area {
+	padding: 30px 0px 30px 0px;
+}
+.partner-heading {
+	font-size: 28px;
+}
+.partner {
+	width: 50%;
+}
+.partner .card img {
+	width: 100%;
+}
+.card-body {
+	padding-top: 20px;
+}
+.partner p {
+	padding: 5px 0px 40px 0px;
+	line-height: 22px;
+}
+.partner-area a {
+	margin: 0px 15px 0px 0px;
+}
+/*------------------------------*/
+/* Footer                       */
+/*------------------------------*/
+.footer-about {
+	width: 33.33%;
+}
+.footer-quick-link {
+	width: 33.33%;
+}
+.expertise {
+	width: 33.33%;
+}
+.footer-contact {
+	width: 33.33%;
+}
+}
+/*----------------------------------------------*/
+/* Media Query min width 768px  max width 949px */
+/*----------------------------------------------*/
+@media screen and (min-width: 768px) and (max-width: 949px) {
+/*------------------------------*/
+/*   Header                     */
+/*------------------------------*/
+.header {
+	padding: 15px 0px 15px 0px;
+}
+.logo {
+	padding-top: 0px;
+}
+.top-bar {
+	padding: 15px 0px  0px 0px;
+}
+.top-bar ul {
+	padding-right: 0px;
+}
+/*------------------------------*/
+/* body-content                 */
+/*------------------------------*/
+.body-content-area {
+	padding: 30px 0px 30px 0px;
+}
+.body-content-container {
+	padding: 0px;
+}
+.left-side {
+	float: none;
+	width: 100%;
+}
+.widget {
+	float: left;
+	width: 50%;
+}
+.right-side {
+	padding-top: 20px;
+	float: none;
+	width: 60%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+.feature-image img {
+	width: 100%;
+}
+}
+/*----------------------------------------------*/
+/* Media Query min width 480px  max width 949px */
+/*----------------------------------------------*/
+@media screen and (min-width: 480px) and (max-width: 949px) {
+/*------------------------------*/
+/*  Help                        */
+/*------------------------------*/ 
+.help-content {
+	text-align: center;
+	padding: 30px 0px 35px 0px;
+}
+.help-content h3 {
+	display: block;
+	padding: 0px 0px 20px 0px;
+}
+.help-content a {
+	margin: 0px 10px 20px 0px;
+}
+.help-content a:last-child {
+	margin-right: 0px;
+}
+/*------------------------------*/
+/* Footer                       */
+/*------------------------------*/
+.footer-content-area {		
+	padding: 40px 15px 30px 15px;
+}
+.footer-left-side {
+	float: none;
+	width: 100%;
+}
+.footer-logo img {
+	margin: 0 auto;
+	padding-bottom: 30px;
+}
+.footer-right-side {
+	float: none;
+	width: 100%;
+}
+.footer-content {
+	float: left;
+	padding: 0px 40px 20px 0px;
+}
+.footer-content h4 {
+	padding-bottom: 10px;
+}
+.footer-contact ul {
+	padding-top: 30px;
+}
+.footer-content ul li {
+	padding-bottom: 0px;
+}
+.footer-contact {
+	padding-right: 0px;
+}
+}
+/*----------------------------------------------*/
+/* Media Query min width 950px  max width 991px */
+/*----------------------------------------------*/
+@media screen and (min-width: 950px) and (max-width: 991px) {
+/*------------------------------*/
+/*   Header                     */
+/*------------------------------*/
+.dropdown-arrow:after {
+	padding-left: 5px;
+}
+.menu ul li {
+	padding-right: 25px;	
+	font-size: 18px;
+}
+.menu ul li ul {
+	width: 190px;
+}
+.menu ul li ul li {
+	font-size: 16px;
+}
+}
+/*-----------------------------------------------*/
+/* Media Query min width 992px  max width 1100px */
+/*-----------------------------------------------*/
+@media screen and (min-width: 992px) and (max-width: 1100px) {
+/*------------------------------*/
+/*   Header                     */
+/*------------------------------*/
+.top-bar ul {
+	padding-right: 30px;
+}
+.menu ul li {
+	padding-right: 30px;	
+	font-size: 19px;
+}
+.dropdown-arrow:after {
+	padding-left: 5px;
+}
+.menu ul li ul {
+	width: 200px;
+}
+/*------------------------------*/
+/*   Footer                     */
+/*------------------------------*/
+.copy-right-area {
+	text-align: center;
+	padding: 25px 0px 25px 0px;
+}
+.copy-right-content {
+	float: none;
+	margin-bottom: 10px;
+}
+.copy-right-menu {
+	float: none;
+}
+.copy-right-menu ul {
+	display: inline-block;
+}
+}
+/*-----------------------------------------------*/
+/* Media Query min width 950px  max width 1171px */
+/*-----------------------------------------------*/
+@media screen and (min-width: 950px) and (max-width: 1171px) { 
+/*------------------------------*/
+/*  Help                        */
+/*------------------------------*/ 
+.help-content {
+	text-align: center;
+	padding: 30px 0px 35px 0px;
+}
+.help-content h3 {
+	display: block;
+	padding: 0px 0px 20px 0px;
+}
+.help-content a {
+	margin: 0px 20px 0px 0px;
+}
+.help-content a:last-child {
+	margin-right: 0px;
+}
+/*------------------------------*/
+/* Footer                       */
+/*------------------------------*/
+.footer-left-side {
+	width: 20%;
+}
+.footer-right-side {
+	width: 80%;
+}
+.footer-content {
+	float: left;
+	padding: 0px 0px 0px 20px;
+}
+.footer-about {
+	width: 22.66%;
+}
+.footer-quick-link {
+	width: 25.23%;
+}
+.expertise {
+	width: 29.41%;
+}
+.footer-contact {
+	width: 22.70%;
+}
+}
